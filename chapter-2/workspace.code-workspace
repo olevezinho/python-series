@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../C-Files"
+		}
+	],
+	"remoteAuthority": "wsl+Debian",
+	"settings": {
+		"python.pythonPath": "venv/bin/python3.7"
+	}
+}

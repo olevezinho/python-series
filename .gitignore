@@ -139,4 +139,4 @@ dmypy.json
 # MySql
 .db/
 .dbinit/
-/chapter-2/available_locs_for_trend.json
+chapter-2/available_locs_for_trend.json

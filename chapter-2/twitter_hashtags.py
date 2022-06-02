@@ -48,3 +48,4 @@ class Hashtags:
             logger.error(e)
             logger.info(f"{count} tweets favored!")
             logger.exception(e.with_traceback())
+        return None
